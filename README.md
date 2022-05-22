@@ -5,7 +5,7 @@ The purpose of this analysis is to use Machine learning and Neural Networkd to h
 
 ## Results
 In order to obtain our results we would need to compile, train and evaluate as well as optimize the model.
-### Data Preprossing
+### Data Preprocessing
 
  What Variable(s) are considered the target(s) for your model?
  
