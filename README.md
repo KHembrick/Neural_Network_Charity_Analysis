@@ -42,4 +42,4 @@ In order to obtain our results we would need to compile, train and evaluate as w
   This analysis has shown that Machine Learning and Neuro Networks can be very helpful/useful in the decion making process. Although I did not reach the targeted module goal in 3 attempts it is still possible  to obtain.
   
   ### Recommendations
-  I think that Random Forest Classifier would be best. The reason i feel that Random Forest Classifier model would be best is because we could get classified outputs and evaluate its performance against the deep learning module.
+ My recommendation is to use the  Random Forest Classifier model.  The reason i feel that Random Forest Classifier model would be best is because we could get classified outputs and evaluate its performance against the deep learning module.
